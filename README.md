@@ -7,7 +7,7 @@
   
  >  页面结构说明：本站点由首页、剧情介绍、使徒介绍、角色介绍（列表页）、鬼剑士（详细页）、关于DNF（表单页）组成。剧情介绍、使徒介绍和角色介绍负责向游客展示DNF的剧情梗概、关键角色以及玩家所使用的角色信息，鬼剑士页面则是对鬼剑士这一角色的进一步介绍，让游客更加了解鬼剑士这一角色，最后的表单页是一份调查问卷，是我提的一些关于DNF的问题。
  
- >  技术指标：兼容的浏览器版本有firefox、IE，所用的html版本为html4.01，开发工具为sublim。
+ >  技术指标：兼容的浏览器版本有firefox、IE，所用的html版本为html4.01，开发工具为sublime。
   
 >   所用到的标签：<p>&lt;title&gt; &lt;meta&gt; &lt;h1&gt; &lt;h2&gt; &lt;div&gt; &lt;ul&gt; &lt;li&gt; &lt;a&gt; &lt;img&gt; &lt;embed&gt; &lt;article&gt; &lt;section&gt; &lt;big&gt; &lt;b&gt; &lt;br&gt; &lt;footer&gt; &lt;form&gt; &lt;fieldset&gt; &lt;textarea&gt; &lt;button&gt; &lt;input&gt; &lt;option&gt;</p>
   
