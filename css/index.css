@@ -1,0 +1,42 @@
+h2 {
+
+}
+body {
+  background: url(http://att.bbs.duowan.com/forum/201406/11/2131485wzajfraus96sakk.jpg);
+  background-repeat:;
+  
+} 
+embed {
+	margin-right: 0px;
+	float: right;
+
+}
+p {
+	width: 1200px;
+	margin-right:800px;
+	font-family: Microsoft Yahei,"微软雅黑";
+	color: brown;
+}
+ul {
+	float: ;
+	width: 200px;
+	height: 200px;
+	line-height: 50px;
+	list-style: none;
+}
+#introduce {
+	width: 1000px;
+	margin-left: 200px;
+	float: right;
+}
+a {
+	list-style: none;
+	color: yellow;
+}
+footer {
+	margin-left: 700px;
+    color: red;
+}
+#clock{
+	margin-top: 100px;
+}

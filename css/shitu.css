@@ -1,0 +1,11 @@
+body {
+	background-color: gray;
+}
+img {
+	float: left;
+	width: 400px;
+	height: 340px;
+}
+section {
+	margin-left: 500px;
+}
