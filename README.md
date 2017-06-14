@@ -125,7 +125,8 @@ nav a:hover{
     &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-这是我需要的代码：&lt;script src="js/analogClock.js"&gt;&lt;/script&gt;
+这是我需要的代码：
+   &lt;script src="js/analogClock.js"&gt;&lt;/script&gt;
     &lt;script&gt;
         AnalogClock("clock1");//simple use
         AnalogClock("clock2", { width: 300, bgColor: "#bf0" });//simple option
